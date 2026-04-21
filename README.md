@@ -20,6 +20,7 @@ This lab focuses on the fundamental concepts of algorithm design, asymptotic ana
 | **Lab 8** | [Lab 8](Lab_8.ipynb) | Greedy Algorithms and optimization problems. |
 | **Lab 9** | [Lab 9](Lab_9.ipynb) | Graph algorithms (BFS/DFS). |
 | **Lab 10**| [Lab 10](Lab_10.ipynb) | Advanced algorithm analysis and final lab tasks. |
+| **Lab 11**| [Lab 11](Lab_11.ipynb) | Travelling Salesman Problem using Dynamic Programming. |
 
 ## 🛠️ Tools & Technologies
 
