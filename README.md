@@ -21,6 +21,7 @@ This lab focuses on the fundamental concepts of algorithm design, asymptotic ana
 | **Lab 9** | [Lab 9](Lab_9.ipynb) | Shortest Path Using Dijkstra Algorithm in Python |
 | **Lab 10**| [Lab 10](Lab_10.ipynb) | Warshall algorithm to find reachability between all pairs of vertices in a graph. |
 | **Lab 11**| [Lab 11](Lab_11.ipynb) | Travelling Salesman Problem using Dynamic Programming. |
+| **Lab 12**| [Lab_12](Lab_12.ipynb) | 
 
 ## 🛠️ Tools & Technologies
 
